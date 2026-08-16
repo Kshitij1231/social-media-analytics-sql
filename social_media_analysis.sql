@@ -1,7 +1,7 @@
 -- =========================================================
 --  SOCIAL MEDIA ANALYTICS DATASET 
 --  Database: Social_Media
---  Author: Devdatta Supnekar 
+
 -- =========================================================
 
 CREATE DATABASE IF NOT EXISTS Social_Media;
