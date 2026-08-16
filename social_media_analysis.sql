@@ -6,7 +6,6 @@
 -- ==============================================================
 -- SQL + GenAI Mini Project : Social Media Analytics
 -- Dataset : Social_Media
--- Student Name : ______________________
 -- ==============================================================
 
 -- 🚀 SETUP INSTRUCTIONS (MUST DO FIRST)
